@@ -30,7 +30,7 @@
 
 <div>
   <a href="https://br.linkedin.com/in/alan-clyverton-641487229" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
-
+</div>
 ##
 
 ![Snake animation](https://github.com/clyverton97/clyverton97/blob/output/github-contribution-grid-snake.svg)
