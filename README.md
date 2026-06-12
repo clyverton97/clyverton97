@@ -6,9 +6,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/denisilvace"> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denisilvace&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denisilvace&layout=compact&langs_count=16&theme=dark" />
+  <a href="https://github.com/clyverton97"> 
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=clyverton97&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clyverton97&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
 
