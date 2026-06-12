@@ -31,6 +31,16 @@
 <div>
   <a href="https://br.linkedin.com/in/alan-clyverton-641487229" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
 
+##
+
+![Snake animation](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
 <!--
 **clyverton97/clyverton97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
